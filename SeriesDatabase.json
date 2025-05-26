@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "nombre": "Breaking Bad",
+    "descripcion": "Un profesor de Química de secundaria con cáncer terminal se asocia a un exestudiante para asegurar el futuro de su familia al fabricar y vender metanfetamina",
+    "imagenUrl": "https://es.web.img3.acsta.net/pictures/18/04/04/22/52/3191575.jpg",
+    "visible": true,
+    "temporadas": [
+      {
+        "numero": 1,
+        "imagenUrl": "https://es.web.img3.acsta.net/pictures/18/04/04/22/52/3191575.jpg",
+        "descripcion": "Inicia el Juego",
+        "visible": true,
+        "capitulos": [
+          {
+            "numero": 1,
+            "nombre": "1. «Principio del fin»",
+            "imagenUrl": "https://es.web.img3.acsta.net/pictures/18/04/04/22/52/3191575.jpg",
+            "descripcion": "Un profesor de química de escuela secundaria recurre a la venta de drogas para mantener a su familia",
+            "videoUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+            "tipoVideo": 2,
+            "visible": true
+          },
+          {
+            "numero": 2,
+            "nombre": "2. «El gato en la bolsa»",
+            "imagenUrl": "https://es.web.img3.acsta.net/pictures/18/04/04/22/52/3191575.jpg",
+            "descripcion": "Luego del fracaso de su primer negocio de drogas, Walt y Jesse deben deshacerse de dos cadáveres. Skyler sospecha que su marido no está involucrado en nada bueno.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "tipoVideo": 2,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "imagenUrl": "https://es.web.img3.acsta.net/pictures/18/04/04/22/52/3191575.jpg",
+        "descripcion": "Temporada 2 el juego continua",
+        "visible": true,
+        "capitulos": [
+          {
+            "numero": 1,
+            "nombre": "1. «Seven Thirty-Seven»",
+            "imagenUrl": "https://es.web.img3.acsta.net/pictures/18/04/04/22/52/3191575.jpg",
+            "descripcion": "Walt y Jesse se dan cuenta de que están en problemas con Tuco Salamanca.",
+            "videoUrl": "https://youtube.com/embed/NBmIkIpoer8",
+            "tipoVideo": 1,
+            "visible": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Ozark",
+    "descripcion": "Un asesor financiero arrastra a su familia desde Chicago hasta los lagos de Ozark para lavar 500 millones de dólares en cinco años y tranquilizar a un jefe narco.",
+    "imagenUrl": "https://static.wikia.nocookie.net/doblaje/images/c/cb/Ozarkk.jpg/revision/latest?cb=20181116004819&path-prefix=es",
+    "visible": true,
+    "temporadas": [
+      {
+        "numero": 1,
+        "imagenUrl": "https://static.wikia.nocookie.net/doblaje/images/c/cb/Ozarkk.jpg/revision/latest?cb=20181116004819&path-prefix=es",
+        "descripcion": "Temporada 1",
+        "visible": true,
+        "capitulos": [
+          {
+            "numero": 1,
+            "nombre": "1. «Azucarada»",
+            "imagenUrl": "https://static.wikia.nocookie.net/doblaje/images/c/cb/Ozarkk.jpg/revision/latest?cb=20181116004819&path-prefix=es",
+            "descripcion": "Marty, asesor financiero, ingenia un plan temerario para sobrevivir y salvar a su familia.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "tipoVideo": 1,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "imagenUrl": "https://static.wikia.nocookie.net/doblaje/images/c/cb/Ozarkk.jpg/revision/latest?cb=20181116004819&path-prefix=es",
+        "descripcion": "Temporada 2",
+        "visible": true,
+        "capitulos": [
+          {
+            "numero": 1,
+            "nombre": "1. «Reparación»",
+            "imagenUrl": "https://static.wikia.nocookie.net/doblaje/images/c/cb/Ozarkk.jpg/revision/latest?cb=20181116004819&path-prefix=es",
+            "descripcion": "Marty y Wendy luchan por mantener su operación mientras lidian con nuevos problemas.",
+            "videoUrl": "https://youtube.com/embed/1pgf_yW2o-4",
+            "tipoVideo": 1,
+            "visible": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "The Crown",
+    "descripcion": "Drama que sigue la vida de la reina Isabel II desde su boda en 1947 hasta el presente.",
+    "imagenUrl": "https://pics.filmaffinity.com/the_crown-838357032-mmed.jpg",
+    "visible": true,
+    "temporadas": [
+      {
+        "numero": 1,
+        "imagenUrl": "https://static.wikia.nocookie.net/the-crown/images/0/0e/The_Crown_Segunda_temporada.png/revision/latest?cb=20220922011435&path-prefix=es",
+        "descripcion": "Temporada 1",
+        "visible": true,
+        "capitulos": [
+          {
+            "numero": 1,
+            "nombre": "1. «Wolferton Splash»",
+            "imagenUrl": "https://pics.filmaffinity.com/The_Crown_Serie_de_TV-157527113-large.jpg",
+            "descripcion": "El rey Jorge VI lucha con su salud mientras prepara a su hija Isabel para el trono.",
+            "videoUrl": "https://drive.google.com/file/d/1kcduvMBF9r0_99QR7Viega2ShMe-URwj/view?usp=sharing",
+            "tipoVideo": 2,
+            "visible": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "2 Perros Tontos",
+    "descripcion": "Dos perros tontos era un dibujo animado sobre un par de perros de escasa inteligencia, con un estilo de animación bastante inusual (para la época), un estilo simple, similar a los primeros dibujos animados de Hanna-Barbera entre los años 1950 y 60, con humor de los años 1990.",
+    "imagenUrl": "https://www.lacartoons.com/system/series/portadas/000/000/001/original/MV5BYzgyNGZlYTMtNGY3Zi00MjBjLWExMTQtNzczNWNkODVhMDZkXkEyXkFqcGdeQXVyNTAyODkwOQ__._V1_UY268_CR0_0_182_268_AL_.jpg?1532016641",
+    "visible": true,
+    "temporadas": [
+      {
+        "numero": 1,
+        "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS3YsVSYMcPKP73gtUtP6LgwzNyN5K9qhJYw&s",
+        "descripcion": "Temporada 1",
+        "visible": true,
+        "capitulos": [
+          {
+            "numero": 1,
+            "nombre": "El problema de la puerta / Dientes de oro / ¿Dónde esta el hueso?",
+            "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5K1csw2shtDa72AxNz4wt1mB-Yzo_itCdRw&s",
+            "descripcion": "Disfruta las aventuras",
+            "videoUrl": "https://ok.ru/videoembed/1392690399817",
+            "tipoVideo": 2,
+            "visible": true
+          },          
+          {
+            "numero": 3,
+            "nombre": "Hojuela de maíz / Greg: el hombrecillo galleta / Hogar es donde tienes la cabeza",
+            "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5K1csw2shtDa72AxNz4wt1mB-Yzo_itCdRw&s",
+            "descripcion": "Disfruta las aventuras",
+            "videoUrl": "https://vimeo.com/1023089104",
+            "tipoVideo": 1,
+            "visible": true
+          },
+         {
+            "numero": 2,
+           "nombre" : "Bufet en la Vegas / Quark / Amor en el parque",
+           "imagenUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5K1csw2shtDa72AxNz4wt1mB-Yzo_itCdRw&s",
+           "descripcion" :"Sin descripcion",
+           "videoUrl": "https://www.dailymotion.com/video/x9k0yw0",
+           "tipoVideo":1,
+            "visible": true
+          },
+          {
+            "numero": 4,
+           "nombre" : "Perros en el espacio / Rotney neumático / Pastel en el cielo",
+           "imagenUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5K1csw2shtDa72AxNz4wt1mB-Yzo_itCdRw&s",
+           "descripcion" :"Sin descripcion",
+           "videoUrl": "https://youtube.com/embed/4KtcxK-S4Rk",
+           "tipoVideo":1,
+            "visible": true
+          },
+           {
+            "numero": 5,
+           "nombre" : "Perros en el espacio",
+           "imagenUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5K1csw2shtDa72AxNz4wt1mB-Yzo_itCdRw&s",
+           "descripcion" :"Sin descripcion",
+           "videoUrl": "https://www.dropbox.com/scl/fi/jgp85hmdvy4e4rs6ianf7/colibri-demo-video.mp4?rlkey=pour5r6a39fhwhzhvw9l1la6b&st=4acrqdhn&raw=1",
+           "tipoVideo":1,
+            "visible": true
+          },
+           {
+            "numero": 6,
+           "nombre" : "Perros en el espacio / Rotney neumático / Pastel en el cielo",
+           "imagenUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5K1csw2shtDa72AxNz4wt1mB-Yzo_itCdRw&s",
+           "descripcion" :"Sin descripcion",
+           "videoUrl": "https://mega.nz/embed/qoMSQbID#zz6Wf5W4v5sKYgpTSwjSKpo1iUntFFcYtHF8Mh56ry0",
+           "tipoVideo":1,
+            "visible": true
+          },
+           {
+            "numero": 7,
+           "nombre" :"El maestro suplente / El camaleón / Perros guía para ciego",
+           "imagenUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5K1csw2shtDa72AxNz4wt1mB-Yzo_itCdRw&s",
+           "descripcion" :"Sin descripcion",
+           "videoUrl": "https://www.facebook.com/facebookapp/videos/10153231379946729/",
+           "tipoVideo":1,
+            "visible": true
+          },
+           {
+            "numero": 8,
+           "nombre" : "Día de recolectar la basura / Scirlocco topo / El arca de Hollywood",
+           "imagenUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5K1csw2shtDa72AxNz4wt1mB-Yzo_itCdRw&s",
+           "descripcion" :"Sin descripcion",
+           "videoUrl": "   ",
+           "tipoVideo":1,
+            "visible": true
+          },
+           {
+            "numero": 9,
+           "nombre" :  "Valores familiares / El ornitorrinco / Caperucita roja ataca de nuevo",
+           "imagenUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5K1csw2shtDa72AxNz4wt1mB-Yzo_itCdRw&s",
+           "descripcion" :"Sin descripcion",
+           "videoUrl":"https://youtube.com/12345",
+           "tipoVideo":1,
+            "visible": true
+          },
+           {
+            "numero": 10,
+           "nombre" :"Perros actores / El doctor O / El regreso de Caperucita Roja",
+           "imagenUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5K1csw2shtDa72AxNz4wt1mB-Yzo_itCdRw&s",
+           "descripcion" :"Sin descripcion",
+           "videoUrl": "https://youtube.com/12345",
+           "tipoVideo":1,
+            "visible": true
+          },
+           {
+            "numero": 11,
+           "nombre" : "Sigamos el precio correcto / El villano Panda / Un viernes de paseo",
+           "imagenUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5K1csw2shtDa72AxNz4wt1mB-Yzo_itCdRw&s",
+           "descripcion" :"Sin descripcion",
+           "videoUrl": "https://youtube.com/12345",
+           "tipoVideo":1,
+            "visible": true
+          },
+           {
+            "numero": 12,
+           "nombre" : "El gato / La cabra Vudú / Doctores del amor",
+           "imagenUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5K1csw2shtDa72AxNz4wt1mB-Yzo_itCdRw&s",
+           "descripcion" :"Sin descripcion",
+           "videoUrl": "https://youtube.com/12345",
+           "tipoVideo":1,
+            "visible": true
+          }
+
+
+
+
+        ]
+      }
+    ]
+  }
+]
