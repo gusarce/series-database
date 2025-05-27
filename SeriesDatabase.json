@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "nombre": "Breaking BadTavo",
+    "nombre": "Breaking Bad",
     "descripcion": "Un profesor de Química de secundaria con cáncer terminal se asocia a un exestudiante para asegurar el futuro de su familia al fabricar y vender metanfetamina",
     "imagenUrl": "https://es.web.img3.acsta.net/pictures/18/04/04/22/52/3191575.jpg",
     "visible": true,
@@ -19,7 +19,7 @@
             "descripcion": "Un profesor de química de escuela secundaria recurre a la venta de drogas para mantener a su familia",
             "videoUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
             "tipoVideo": 2,
-            "visible": true
+            "visible": false
           },
           {
             "numero": 2,
