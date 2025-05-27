@@ -10,7 +10,7 @@
         "numero": 1,
         "imagenUrl": "https://es.web.img3.acsta.net/pictures/18/04/04/22/52/3191575.jpg",
         "descripcion": "Inicia el Juego",
-        "visible": true,
+        "visible": false,
         "capitulos": [
           {
             "numero": 1,
